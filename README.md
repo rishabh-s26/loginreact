@@ -1,4 +1,4 @@
-This is my react project . I made this project using React , Html , Css  It is a account management app which includes a login page , a registration page and a page where a page to view information  and edit details. 
+This is my react project . I made this project using React , Html , Css  . It is a account management app which includes a login page , a registration page and a page to view information  and edit details. 
 
 # Getting Started with Create React App
 
